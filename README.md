@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🜂 Identity-First Security Architect
 
-<!--
-**RDaniels113/RDaniels113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design architectures that hold shape when everything else shakes.  
+Two decades across enterprise and DoD networks taught me containment isn’t theory—it’s survival.
 
-Here are some ideas to get you started:
+**Focus**
+- M365 / Entra ID  
+- Conditional Access / RBAC / PIM  
+- Threat-informed automation & policy-as-code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Pinned Work**
+- [Crashcart](https://github.com/RDaniels113/crashcart)
+- [Win11-Baseline-Image](https://github.com/RDaniels113/win11-baseline-image)
+- [Sovereign-Ops-Toolbox](https://github.com/RDaniels113/sovereign-ops-toolbox)
