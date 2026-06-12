@@ -98,5 +98,3 @@ cyberron.org
 github.com/RDaniels113
 
 ---
-
-*"Small improvements, consistently applied, compound into extraordinary outcomes."*
