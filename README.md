@@ -36,6 +36,6 @@ Understand the system. Fix the right thing. Leave it better than you found it.
 
 ## Connect
 
-LinkedIn: linkedin.com/in/rdaniels113
+LinkedIn: https://www.linkedin.com/in/rdaniels113
 
-Website: cyberron.org
+Website: https://www.cyberron.org
